@@ -12,7 +12,7 @@ Our website will consist of 7 pages total, including:
 - Four visualization pages, each with a descriptive title and heading tage
     - Code snippet from one of the visualization page ![Screenshot](Screenshots/maxtemp2.JPG "Screenshot")
 
-- A Comparions page which will contain all visualizations on the same page
+- A Comparisons page which will contain all visualizations on the same page
     - Code snippet from comparison page ![Screenshot](Screenshots/navbarcomp.JPG "Screenshot")
 
 - A Data Page which will display a responsive table containing the data used in the visualizations
